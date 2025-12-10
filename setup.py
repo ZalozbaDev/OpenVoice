@@ -26,11 +26,11 @@ setup(name='MyShell-OpenVoice',
 
       python_requires='>=3.9',
       install_requires=[
-            'librosa==0.10.0',
+            'librosa==0.11.0',
             'faster-whisper==1.0.2',
             'pydub==0.25.1',
             'wavmark==0.0.3',
-            'numpy==1.24.3',
+            'numpy==2.3.5',
             'eng_to_ipa==0.0.2',
             'inflect==7.4.0',
             'unidecode==1.3.8',
